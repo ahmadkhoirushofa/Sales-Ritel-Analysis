@@ -20,9 +20,9 @@ Visualisasi Interaktif (Dashboard): Hasil dari Pivot Table divisualisasikan menj
 ## 📊 Hasil Analisis & Ringkasan Metrik Utama
 Berdasarkan data yang divisualisasikan pada dashboard, berikut adalah insight dan hasil analisis utamanya:
 
-Performa Keuangan yang Kuat: Bisnis ritel ini mencetak Total Penjualan sebesar 2,591 Triliun dengan Total Profit mencapai 591,4 Miliar[cite: 1]. Performa ini menghasilkan margin profit atau persentase profit yang sangat sehat di angka 30%.
+Performa Keuangan yang Kuat: Bisnis ritel ini mencetak Total Penjualan sebesar 2,591 Triliun dengan Total Profit mencapai 591,4 Miliar. Performa ini menghasilkan margin profit atau persentase profit yang sangat sehat di angka 30%.
 
-Volume dan Kinerja Produk: Sebanyak 1,29 Juta Pcs produk telah berhasil terjual[cite: 1]. Kategori yang paling mendominasi pendapatan adalah Elektronik (340.109 Pcs), di mana AC Daikin 90 menjadi produk penyumbang volume terbesar (Produk Terlaris) dengan penjualan mencapai 14.245 Pcs.
+Volume dan Kinerja Produk: Sebanyak 1,29 Juta Pcs produk telah berhasil terjual. Kategori yang paling mendominasi pendapatan adalah Elektronik (340.109 Pcs), di mana AC Daikin 90 menjadi produk penyumbang volume terbesar (Produk Terlaris) dengan penjualan mencapai 14.245 Pcs.
 
 Strategi Omnichannel Berhasil: Penjualan tersebar secara sangat merata dan optimal di berbagai kanal digital. App Android menyumbang porsi terbesar (34%), diikuti oleh App iOS (33%) dan akses melalui Web (33%).
 
